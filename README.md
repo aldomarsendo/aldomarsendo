@@ -2,7 +2,7 @@
 ![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWUxazc4MWY0cTB2eWNyd2NnaWV0OXI1YWVodms0ajZpeGMxb2NtcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qey2rfaFeWj4IldyCg/giphy.gif)
 
 
-<!--
+<!-- 
 **aldomarsendo/aldomarsendo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
 - 🌱 I’m currently learning Javascript
 
 ### Skills
@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 
 ### My Github Stat
 [![Aldo GitHub stats](https://github-readme-stats.vercel.app/api?username=aldomarsendo)](https://github.com/aldomarsendo/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aldomarsendo&darkhide_border=false&include_all_commits=false&count_private=false&layout=compact)

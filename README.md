@@ -1,4 +1,6 @@
-## Hii 👋
+## 👋Hii
+![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJsczV4cjRldHJnYngzNmdzY2swbzEyMzc3MG9wczEzcnRpMTl3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6STppvXBtUn3W/giphy.gif)
+
 
 <!--
 **aldomarsendo/aldomarsendo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning Javascript

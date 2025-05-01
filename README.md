@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript<br>
 
 ### Skills
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -33,6 +33,6 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aldomarsendo/aldomarsendo/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aldomarsendo/aldomarsendo/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aldomarsendo/aldomarsendo/output/pacman-contribution-graph.svg">
-</picture>
+</picture><br>
 
 ###
